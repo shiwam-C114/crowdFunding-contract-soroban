@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/user/test/project/soroban/crowdFunding/target/release/build/typenum-d0a7aefa19330001/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/user/test/project/soroban/crowdFunding/target/release/build/typenum-d0a7aefa19330001/out/op.rs
